@@ -1,2 +1,2 @@
 # Portfolio_Mariam
-My Portfolio 
+A Draft of my future UX/UI work to be used as a portfolio. 
